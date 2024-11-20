@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Urban Development Charts</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        iframe {
+            display: block;
+            margin: 20px auto;
+            border: 1px solid #ccc;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Urban Development Visualizations</h1>
+
+    <h2>Population Growth Comparison</h2>
+    <iframe src="https://yourusername.github.io/interactive_population_growth.html" width="100%" height="500"></iframe>
+
+    <h2>Skyscrapers and Iconic Buildings Comparison</h2>
+    <iframe src="https://yourusername.github.io/interactive_skyscrapers_buildings.html" width="100%" height="500"></iframe>
+</body>
+</html>
